@@ -1,1 +1,3 @@
-# logistic-regression-models
+# Generalized-linear-models
+# logistic-regression
+# Case study
